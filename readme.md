@@ -4,7 +4,7 @@ This is a collection of various ways of picking color and converting them using 
 
 2 hour approximately
 
-[Live Demo](https://regform-akj.netlify.app/)
+[Live Demo](https://shadeup-akj.netlify.app/)
 
 ### SnapShot of the program
 
